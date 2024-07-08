@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=GND NewDesignator=*2
+Change Component Designator: OldDesignator=OUT+ NewDesignator=*4
+Change Component Designator: OldDesignator=VIN+ NewDesignator=*1
+Added Room: Name=buck
